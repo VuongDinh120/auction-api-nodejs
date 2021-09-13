@@ -1,0 +1,19 @@
+{
+  "name": "backend-online_auction-ldudhd",
+  "version": "1.0.0",
+  "description": "Back-end cho hệ thống sàn đấu giá trực tuyến",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VuongDinh120/backend-Online_Auction-LDUDHD.git"
+  },
+  "author": "VuongDinh-HienTuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VuongDinh120/backend-Online_Auction-LDUDHD/issues"
+  },
+  "homepage": "https://github.com/VuongDinh120/backend-Online_Auction-LDUDHD#readme"
+}

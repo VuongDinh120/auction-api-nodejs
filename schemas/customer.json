@@ -1,0 +1,62 @@
+{
+    "add": {
+        "properties": {
+            "store_id": {
+                "type": "uint16"
+            },
+            "address_id": {
+                "type": "uint16"
+            },
+            "first_name": {
+                "type": "string"
+            },
+            "last_name": {
+                "type": "string"
+            }
+        },
+        "optionalProperties": {
+            "customer_id": {
+                "type": "uint16"
+            },
+            "email": {
+                "type": "string"
+            },
+            "active": {
+                "type": "uint8"
+            },
+            "last_update": {
+                "type": "timestamp"
+            }
+        }
+    },
+    "update": {
+        "properties": {
+            "customer_id": {
+                "type": "uint16"
+            }
+        },
+        "optionalProperties": {
+            "store_id": {
+                "type": "uint16"
+            },
+            "address_id": {
+                "type": "uint16"
+            },
+            "first_name": {
+                "type": "string"
+            },
+            "last_name": {
+                "type": "string"
+            },
+            "email": {
+                "type": "string"
+            },
+            "active": {
+                "type": "uint8"
+            },
+            "last_update": {
+                "type": "timestamp"
+            }
+        }
+    }
+}

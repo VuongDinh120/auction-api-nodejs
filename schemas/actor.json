@@ -1,0 +1,38 @@
+{
+    "add": {
+        "properties": {
+            "first_name": {
+                "type": "string"
+            },
+            "last_name": {
+                "type": "string"
+            }
+        },
+        "optionalProperties": {
+            "actor_id": {
+                "type": "uint16"
+            },
+            "last_update": {
+                "type": "timestamp"
+            }
+        }
+    },
+    "update": {
+        "properties": {
+            "actor_id": {
+                "type": "uint16"
+            }
+        },
+        "optionalProperties": {
+            "last_update": {
+                "type": "timestamp"
+            },
+            "first_name": {
+                "type": "string"
+            },
+            "last_name": {
+                "type": "string"
+            }
+        }
+    }
+}

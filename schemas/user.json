@@ -1,0 +1,15 @@
+{
+    "properties": {
+        "user_id": {
+            "type": "string"
+        },
+        "username": {
+            "type": "string"
+        },
+        "password": {
+            "type": "string"
+        }
+    },
+    "optionalProperties": {
+    }
+}
